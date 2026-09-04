@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/vitordiricio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vitordiricio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://medium.com/@vitordiricio"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://github.com/vitordiricio"><img src="https://img.shields.io/badge/UFABC-B.Sc._Computer_Science-006633?style=for-the-badge&logo=educative&logoColor=white" alt="Education" /></a>
+  <a href="https://www.ufabc.edu.br/"><img src="https://img.shields.io/badge/UFABC-B.Sc._Computer_Science-006633?style=for-the-badge&logo=googlescholar&logoColor=white" alt="UFABC" /></a>
 </p>
 
 </div>
@@ -24,9 +24,9 @@
 
 ### ⚡ Executive Summary & Value Proposition
 
-> **Forward Deployed Engineer (FDE) & Specialist Tech Lead** with dual degrees in **Computer Science** and **Science & Technology** from UFABC. I bridge the gap between high-level executive business strategy and deep, low-latency technical implementation.
+> **Forward Deployed Engineer (FDE) & Specialist Tech Lead** with dual degrees in **Computer Science** and **Science & Technology** from <a href="https://www.ufabc.edu.br/"><img src="https://avatars.githubusercontent.com/u/47036161?s=32&v=4" width="18" height="18" style="vertical-align: -3px; border-radius: 50%;" alt="UFABC" /> **UFABC**</a>. I bridge the gap between high-level executive business strategy and deep, low-latency technical implementation.
 >
-> Proven track record delivering mission-critical **Multi-Agent AI Systems**, **Distributed Microservices**, and **High-Throughput Analytics Engines** for global enterprises including **Philips North America**, **Carrefour**, **Birmingham Bank**, **Nubank**, **BMW**, and **TV Globo**.
+> Proven track record delivering mission-critical **Multi-Agent AI Systems**, **Distributed Microservices**, and **High-Throughput Analytics Engines** for global enterprises and industry leaders.
 
 ---
 
@@ -49,12 +49,78 @@
 
 ---
 
+### 🏢 Brands & Clients I've Built For
+
+<div align="center">
+
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr align="center">
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://avatars.githubusercontent.com/u/1531638?s=64&v=4" width="38" height="38" style="border-radius: 8px;" alt="Philips" /><br/>
+      <sub><b>Philips</b></sub>
+    </td>
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://cdn.simpleicons.org/carrefour/004B9B" width="38" height="38" alt="Carrefour" /><br/>
+      <sub><b>Carrefour</b></sub>
+    </td>
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://cdn.simpleicons.org/nubank/820AD1" width="38" height="38" alt="Nubank" /><br/>
+      <sub><b>Nubank</b></sub>
+    </td>
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://cdn.simpleicons.org/bmw/0066B1" width="38" height="38" alt="BMW" /><br/>
+      <sub><b>BMW</b></sub>
+    </td>
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://www.google.com/s2/favicons?domain=birminghambank.com&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Birmingham Bank" /><br/>
+      <sub><b>Birmingham Bank</b></sub>
+    </td>
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://avatars.githubusercontent.com/u/255099?s=64&v=4" width="38" height="38" style="border-radius: 8px;" alt="TV Globo" /><br/>
+      <sub><b>TV Globo</b></sub>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://www.google.com/s2/favicons?domain=dia.com.br&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Grupo Dia" /><br/>
+      <sub><b>Grupo Dia</b></sub>
+    </td>
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://www.google.com/s2/favicons?domain=tvazteca.com&sz=128" width="38" height="38" style="border-radius: 8px;" alt="TV Azteca" /><br/>
+      <sub><b>TV Azteca</b></sub>
+    </td>
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://www.google.com/s2/favicons?domain=cogna.com.br&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Cogna Educação" /><br/>
+      <sub><b>Cogna Educação</b></sub>
+    </td>
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://avatars.githubusercontent.com/u/6169007?s=64&v=4" width="38" height="38" style="border-radius: 8px;" alt="FCamara" /><br/>
+      <sub><b>FCamara</b></sub>
+    </td>
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://avatars.githubusercontent.com/u/1199341?s=64&v=4" width="38" height="38" style="border-radius: 8px;" alt=".Monks" /><br/>
+      <sub><b>.Monks</b></sub>
+    </td>
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://avatars.githubusercontent.com/u/47036161?s=64&v=4" width="38" height="38" style="border-radius: 8px;" alt="UFABC" /><br/>
+      <sub><b>UFABC</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ### 🚀 Flagship Engineering Cases & Impact
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏥 Philips North America</h4>
+      <h4>
+        <img src="https://avatars.githubusercontent.com/u/1531638?s=64&v=4" width="22" height="22" style="vertical-align: middle; border-radius: 4px;" alt="Philips" />
+        Philips North America
+      </h4>
       <b>Simulation Engine & Medical Demand Forecasting</b>
       <p>Architected a low-latency simulation engine replacing monolithic calculations with vectorized processing in <code>DuckDB</code> & <code>FastAPI</code>, hosted on GCP Cloud Run.</p>
       <ul>
@@ -64,7 +130,10 @@
       <sub><code>FastAPI</code> • <code>DuckDB</code> • <code>Next.js</code> • <code>GCP Cloud Run</code> • <code>Docker</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🛒 Carrefour (CORA)</h4>
+      <h4>
+        <img src="https://cdn.simpleicons.org/carrefour/004B9B" width="22" height="22" style="vertical-align: middle;" alt="Carrefour" />
+        Carrefour (CORA)
+      </h4>
       <b>Hermes Multi-Agent Autonomous Replenishment Engine</b>
       <p>Engineered an autonomous multi-agent architecture coordinating store inventory, supplier logistics, and order reconciliation using <code>LangGraph</code> and <code>Azure OpenAI</code>.</p>
       <ul>
@@ -76,7 +145,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏦 Birmingham Bank</h4>
+      <h4>
+        <img src="https://www.google.com/s2/favicons?domain=birminghambank.com&sz=128" width="22" height="22" style="vertical-align: middle; border-radius: 4px;" alt="Birmingham Bank" />
+        Birmingham Bank
+      </h4>
       <b>Intelligent Decision Hub & Compliance Guardrails</b>
       <p>Engineered an enterprise financial decision platform powered by Azure OpenAI with structured tool-calling, custom Prompt Shields, and strict compliance audit trails.</p>
       <ul>
@@ -86,7 +158,10 @@
       <sub><code>Azure OpenAI</code> • <code>Prompt Shield</code> • <code>Next.js</code> • <code>CosmosDB</code> • <code>Azure</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>💳 Nubank</h4>
+      <h4>
+        <img src="https://cdn.simpleicons.org/nubank/820AD1" width="22" height="22" style="vertical-align: middle; border-radius: 4px;" alt="Nubank" />
+        Nubank
+      </h4>
       <b>NuFlow Automated Asset & Campaign Engine</b>
       <p>Designed a serverless dynamic asset generation pipeline handling high-throughput campaign personalization and rendering under high concurrency.</p>
       <ul>
@@ -98,7 +173,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚗 BMW</h4>
+      <h4>
+        <img src="https://cdn.simpleicons.org/bmw/0066B1" width="22" height="22" style="vertical-align: middle;" alt="BMW" />
+        BMW
+      </h4>
       <b>Interactive 3D Real-Time Vehicle Showcase</b>
       <p>High-fidelity interactive 3D web experience with optimized geometry pipelines for smooth cross-device rendering at 60 FPS.</p>
       <ul>
@@ -108,7 +186,10 @@
       <sub><code>Three.js</code> • <code>WebGL</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>AWS</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>📺 TV Globo</h4>
+      <h4>
+        <img src="https://avatars.githubusercontent.com/u/255099?s=64&v=4" width="22" height="22" style="vertical-align: middle; border-radius: 4px;" alt="TV Globo" />
+        TV Globo
+      </h4>
       <b>Scalable Video Ingestion & Processing Pipeline</b>
       <p>Distributed asynchronous pipeline ingesting and transcoding heavy media streams with message-driven architecture.</p>
       <ul>
