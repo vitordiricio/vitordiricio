@@ -26,7 +26,40 @@
 
 > **Forward Deployed Engineer (FDE) & Specialist Tech Lead** with dual degrees in **Computer Science** and **Science & Technology** from <a href="https://www.ufabc.edu.br/"><img src="https://avatars.githubusercontent.com/u/47036161?s=32&v=4" width="18" height="18" style="vertical-align: -3px; border-radius: 50%;" alt="UFABC" /> **UFABC**</a>. I bridge the gap between high-level executive business strategy and deep, low-latency technical implementation.
 >
-> Proven track record delivering mission-critical **Multi-Agent AI Systems**, **Distributed Microservices**, and **High-Throughput Analytics Engines** for global enterprises and industry leaders.
+> Proven track record delivering mission-critical **Multi-Agent AI Systems**, **Distributed Microservices**, and **High-Throughput Analytics Engines** for global enterprises and industry leaders across healthtech, fintech, retail, and media.
+
+---
+
+### 💼 Career History & Companies
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://www.google.com/s2/favicons?domain=fcamara.com&sz=128" width="32" height="32" style="vertical-align: middle; border-radius: 6px;" alt="FCamara" />
+      <b style="font-size: 16px;">&nbsp; FCamara</b> <sub>(Consultoria & Transformação Digital)</sub>
+      <br/><br/>
+      <b>Role Progression:</b>
+      <ul>
+        <li><b>Especialista em Projetos e Soluções (Tech Lead) / Forward Deployed Engineer</b> <br/><sub><i>Atual • Arquiteturas Críticas de IA Generativa, Soluções Globais e POCs de Alto Impacto</i></sub></li>
+        <li><b>Consultor Sênior / Tech Lead</b></li>
+        <li><b>Consultor Pleno</b></li>
+      </ul>
+      <sub>🏢 Clientes atendidos: Philips North America, Carrefour, Birmingham Bank, Grupo Dia, TV Globo</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://www.google.com/s2/favicons?domain=media.monks.com&sz=128" width="32" height="32" style="vertical-align: middle; border-radius: 6px;" alt=".Monks" />
+      <b style="font-size: 16px;">&nbsp; .Monks</b> <sub>(Media.Monks)</sub>
+      <br/><br/>
+      <b>Role Progression:</b>
+      <ul>
+        <li><b>Consultor de Tecnologia (Tech Lead / Staff Engineer)</b> <br/><sub><i>Liderança técnica, arquitetura de sistemas distribuídos, AdTech e GenAI</i></sub></li>
+        <li><b>Desenvolvedor Fullstack Sênior</b></li>
+        <li><b>Desenvolvedor Fullstack Pleno</b></li>
+      </ul>
+      <sub>🏢 Clientes atendidos: Nubank, BMW, TV Azteca, Cogna Educação</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -49,61 +82,47 @@
 
 ---
 
-### 🏢 Brands & Clients I've Built For
+### 🌐 Global Brands & Clients I've Delivered For
 
 <div align="center">
 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr align="center">
-    <td align="center" width="16%" style="padding: 10px;">
-      <img src="https://avatars.githubusercontent.com/u/1531638?s=64&v=4" width="38" height="38" style="border-radius: 8px;" alt="Philips" /><br/>
+    <td align="center" width="11%" style="padding: 10px;">
+      <img src="https://www.google.com/s2/favicons?domain=philips.com&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Philips" /><br/>
       <sub><b>Philips</b></sub>
     </td>
-    <td align="center" width="16%" style="padding: 10px;">
-      <img src="https://cdn.simpleicons.org/carrefour/004B9B" width="38" height="38" alt="Carrefour" /><br/>
+    <td align="center" width="11%" style="padding: 10px;">
+      <img src="https://www.google.com/s2/favicons?domain=carrefour.fr&sz=128" width="38" height="38" alt="Carrefour" /><br/>
       <sub><b>Carrefour</b></sub>
     </td>
-    <td align="center" width="16%" style="padding: 10px;">
-      <img src="https://cdn.simpleicons.org/nubank/820AD1" width="38" height="38" alt="Nubank" /><br/>
+    <td align="center" width="11%" style="padding: 10px;">
+      <img src="https://avatars.githubusercontent.com/u/4257275?s=128&v=4" width="38" height="38" style="border-radius: 8px;" alt="Nubank" /><br/>
       <sub><b>Nubank</b></sub>
     </td>
-    <td align="center" width="16%" style="padding: 10px;">
-      <img src="https://cdn.simpleicons.org/bmw/0066B1" width="38" height="38" alt="BMW" /><br/>
+    <td align="center" width="11%" style="padding: 10px;">
+      <img src="https://www.google.com/s2/favicons?domain=bmw.com.br&sz=128" width="38" height="38" alt="BMW" /><br/>
       <sub><b>BMW</b></sub>
     </td>
-    <td align="center" width="16%" style="padding: 10px;">
+    <td align="center" width="11%" style="padding: 10px;">
       <img src="https://www.google.com/s2/favicons?domain=birminghambank.com&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Birmingham Bank" /><br/>
       <sub><b>Birmingham Bank</b></sub>
     </td>
-    <td align="center" width="16%" style="padding: 10px;">
-      <img src="https://avatars.githubusercontent.com/u/255099?s=64&v=4" width="38" height="38" style="border-radius: 8px;" alt="TV Globo" /><br/>
+    <td align="center" width="11%" style="padding: 10px;">
+      <img src="https://www.google.com/s2/favicons?domain=redeglobo.globo.com&sz=128" width="38" height="38" style="border-radius: 8px;" alt="TV Globo" /><br/>
       <sub><b>TV Globo</b></sub>
     </td>
-  </tr>
-  <tr align="center">
-    <td align="center" width="16%" style="padding: 10px;">
+    <td align="center" width="11%" style="padding: 10px;">
       <img src="https://www.google.com/s2/favicons?domain=dia.com.br&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Grupo Dia" /><br/>
       <sub><b>Grupo Dia</b></sub>
     </td>
-    <td align="center" width="16%" style="padding: 10px;">
+    <td align="center" width="11%" style="padding: 10px;">
       <img src="https://www.google.com/s2/favicons?domain=tvazteca.com&sz=128" width="38" height="38" style="border-radius: 8px;" alt="TV Azteca" /><br/>
       <sub><b>TV Azteca</b></sub>
     </td>
-    <td align="center" width="16%" style="padding: 10px;">
+    <td align="center" width="11%" style="padding: 10px;">
       <img src="https://www.google.com/s2/favicons?domain=cogna.com.br&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Cogna Educação" /><br/>
       <sub><b>Cogna Educação</b></sub>
-    </td>
-    <td align="center" width="16%" style="padding: 10px;">
-      <img src="https://avatars.githubusercontent.com/u/6169007?s=64&v=4" width="38" height="38" style="border-radius: 8px;" alt="FCamara" /><br/>
-      <sub><b>FCamara</b></sub>
-    </td>
-    <td align="center" width="16%" style="padding: 10px;">
-      <img src="https://avatars.githubusercontent.com/u/1199341?s=64&v=4" width="38" height="38" style="border-radius: 8px;" alt=".Monks" /><br/>
-      <sub><b>.Monks</b></sub>
-    </td>
-    <td align="center" width="16%" style="padding: 10px;">
-      <img src="https://avatars.githubusercontent.com/u/47036161?s=64&v=4" width="38" height="38" style="border-radius: 8px;" alt="UFABC" /><br/>
-      <sub><b>UFABC</b></sub>
     </td>
   </tr>
 </table>
@@ -118,7 +137,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>
-        <img src="https://avatars.githubusercontent.com/u/1531638?s=64&v=4" width="22" height="22" style="vertical-align: middle; border-radius: 4px;" alt="Philips" />
+        <img src="https://www.google.com/s2/favicons?domain=philips.com&sz=128" width="22" height="22" style="vertical-align: middle; border-radius: 4px;" alt="Philips" />
         Philips North America
       </h4>
       <b>Simulation Engine & Medical Demand Forecasting</b>
@@ -131,7 +150,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>
-        <img src="https://cdn.simpleicons.org/carrefour/004B9B" width="22" height="22" style="vertical-align: middle;" alt="Carrefour" />
+        <img src="https://www.google.com/s2/favicons?domain=carrefour.fr&sz=128" width="22" height="22" style="vertical-align: middle;" alt="Carrefour" />
         Carrefour (CORA)
       </h4>
       <b>Hermes Multi-Agent Autonomous Replenishment Engine</b>
@@ -159,7 +178,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>
-        <img src="https://cdn.simpleicons.org/nubank/820AD1" width="22" height="22" style="vertical-align: middle; border-radius: 4px;" alt="Nubank" />
+        <img src="https://avatars.githubusercontent.com/u/4257275?s=128&v=4" width="22" height="22" style="vertical-align: middle; border-radius: 4px;" alt="Nubank" />
         Nubank
       </h4>
       <b>NuFlow Automated Asset & Campaign Engine</b>
@@ -174,7 +193,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>
-        <img src="https://cdn.simpleicons.org/bmw/0066B1" width="22" height="22" style="vertical-align: middle;" alt="BMW" />
+        <img src="https://www.google.com/s2/favicons?domain=bmw.com.br&sz=128" width="22" height="22" style="vertical-align: middle;" alt="BMW" />
         BMW
       </h4>
       <b>Interactive 3D Real-Time Vehicle Showcase</b>
@@ -187,7 +206,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>
-        <img src="https://avatars.githubusercontent.com/u/255099?s=64&v=4" width="22" height="22" style="vertical-align: middle; border-radius: 4px;" alt="TV Globo" />
+        <img src="https://www.google.com/s2/favicons?domain=redeglobo.globo.com&sz=128" width="22" height="22" style="vertical-align: middle; border-radius: 4px;" alt="TV Globo" />
         TV Globo
       </h4>
       <b>Scalable Video Ingestion & Processing Pipeline</b>
