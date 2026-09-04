@@ -26,25 +26,25 @@
 
 > **Forward Deployed Engineer (FDE) & Specialist Tech Lead** with dual degrees in **Computer Science** and **Science & Technology** from <a href="https://www.ufabc.edu.br/"><img src="https://avatars.githubusercontent.com/u/47036161?s=32&v=4" width="18" height="18" style="vertical-align: -3px; border-radius: 50%;" alt="UFABC" /> **UFABC**</a>. I bridge the gap between high-level executive business strategy and deep, low-latency technical implementation.
 >
-> Proven track record delivering mission-critical **Multi-Agent AI Systems**, **Distributed Microservices**, and **High-Throughput Analytics Engines** for global enterprises and industry leaders across healthtech, fintech, retail, and media.
+> Proven track record delivering mission-critical **Multi-Agent AI Systems**, **Distributed Microservices**, and **High-Throughput Analytics Engines** for global enterprises and industry leaders across healthtech, fintech, retail, entertainment, and media.
 
 ---
 
-### 💼 Career History & Companies
+### 💼 Professional Experience & Companies
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <img src="https://www.google.com/s2/favicons?domain=fcamara.com&sz=128" width="32" height="32" style="vertical-align: middle; border-radius: 6px;" alt="FCamara" />
-      <b style="font-size: 16px;">&nbsp; FCamara</b> <sub>(Consultoria & Transformação Digital)</sub>
+      <b style="font-size: 16px;">&nbsp; FCamara</b> <sub>(Digital Transformation & Technology Consulting)</sub>
       <br/><br/>
       <b>Role Progression:</b>
       <ul>
-        <li><b>Especialista em Projetos e Soluções (Tech Lead) / Forward Deployed Engineer</b> <br/><sub><i>Atual • Arquiteturas Críticas de IA Generativa, Soluções Globais e POCs de Alto Impacto</i></sub></li>
-        <li><b>Consultor Sênior / Tech Lead</b></li>
-        <li><b>Consultor Pleno</b></li>
+        <li><b>Specialist Solutions Engineer (Tech Lead) / Forward Deployed Engineer</b> <br/><sub><i>Current • Critical GenAI Architectures, Global Enterprise Solutions & High-Impact POCs</i></sub></li>
+        <li><b>Senior Consultant / Tech Lead</b></li>
+        <li><b>Consultant / Mid-Level Software Engineer</b></li>
       </ul>
-      <sub>🏢 Clientes atendidos: Philips North America, Carrefour, Birmingham Bank, Grupo Dia, TV Globo</sub>
+      <sub>🏢 Delivered enterprise solutions for: <b>Philips North America</b>, <b>Carrefour</b>, <b>Birmingham Bank</b>, <b>Grupo Dia</b>, <b>TV Globo</b>, <b>Cogna Educação</b>, <b>TV Azteca</b></sub>
     </td>
     <td width="50%" valign="top">
       <img src="https://www.google.com/s2/favicons?domain=media.monks.com&sz=128" width="32" height="32" style="vertical-align: middle; border-radius: 6px;" alt=".Monks" />
@@ -52,11 +52,11 @@
       <br/><br/>
       <b>Role Progression:</b>
       <ul>
-        <li><b>Consultor de Tecnologia (Tech Lead / Staff Engineer)</b> <br/><sub><i>Liderança técnica, arquitetura de sistemas distribuídos, AdTech e GenAI</i></sub></li>
-        <li><b>Desenvolvedor Fullstack Sênior</b></li>
-        <li><b>Desenvolvedor Fullstack Pleno</b></li>
+        <li><b>Technology Consultant (Tech Lead / Staff Engineer)</b> <br/><sub><i>Technical Leadership, Distributed Systems Architecture, AdTech & Generative AI</i></sub></li>
+        <li><b>Senior Fullstack Developer</b></li>
+        <li><b>Mid-Level Fullstack Developer</b></li>
       </ul>
-      <sub>🏢 Clientes atendidos: Nubank, BMW, TV Azteca, Cogna Educação</sub>
+      <sub>🏢 Delivered enterprise solutions for: <b>Nubank</b>, <b>BMW</b>, <b>Netflix</b>, <b>Banco BV</b></sub>
     </td>
   </tr>
 </table>
@@ -88,41 +88,54 @@
 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr align="center">
-    <td align="center" width="11%" style="padding: 10px;">
+    <td align="center" width="16%" style="padding: 10px;">
       <img src="https://www.google.com/s2/favicons?domain=philips.com&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Philips" /><br/>
       <sub><b>Philips</b></sub>
     </td>
-    <td align="center" width="11%" style="padding: 10px;">
+    <td align="center" width="16%" style="padding: 10px;">
       <img src="https://www.google.com/s2/favicons?domain=carrefour.fr&sz=128" width="38" height="38" alt="Carrefour" /><br/>
       <sub><b>Carrefour</b></sub>
     </td>
-    <td align="center" width="11%" style="padding: 10px;">
+    <td align="center" width="16%" style="padding: 10px;">
       <img src="https://avatars.githubusercontent.com/u/4257275?s=128&v=4" width="38" height="38" style="border-radius: 8px;" alt="Nubank" /><br/>
       <sub><b>Nubank</b></sub>
     </td>
-    <td align="center" width="11%" style="padding: 10px;">
+    <td align="center" width="16%" style="padding: 10px;">
       <img src="https://www.google.com/s2/favicons?domain=bmw.com.br&sz=128" width="38" height="38" alt="BMW" /><br/>
       <sub><b>BMW</b></sub>
     </td>
-    <td align="center" width="11%" style="padding: 10px;">
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://www.google.com/s2/favicons?domain=netflix.com&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Netflix" /><br/>
+      <sub><b>Netflix</b></sub>
+    </td>
+    <td align="center" width="16%" style="padding: 10px;">
+      <img src="https://www.google.com/s2/favicons?domain=bv.com.br&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Banco BV" /><br/>
+      <sub><b>Banco BV</b></sub>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" width="16%" style="padding: 10px;">
       <img src="https://www.google.com/s2/favicons?domain=birminghambank.com&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Birmingham Bank" /><br/>
       <sub><b>Birmingham Bank</b></sub>
     </td>
-    <td align="center" width="11%" style="padding: 10px;">
+    <td align="center" width="16%" style="padding: 10px;">
       <img src="https://www.google.com/s2/favicons?domain=redeglobo.globo.com&sz=128" width="38" height="38" style="border-radius: 8px;" alt="TV Globo" /><br/>
       <sub><b>TV Globo</b></sub>
     </td>
-    <td align="center" width="11%" style="padding: 10px;">
+    <td align="center" width="16%" style="padding: 10px;">
       <img src="https://www.google.com/s2/favicons?domain=dia.com.br&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Grupo Dia" /><br/>
       <sub><b>Grupo Dia</b></sub>
     </td>
-    <td align="center" width="11%" style="padding: 10px;">
+    <td align="center" width="16%" style="padding: 10px;">
       <img src="https://www.google.com/s2/favicons?domain=tvazteca.com&sz=128" width="38" height="38" style="border-radius: 8px;" alt="TV Azteca" /><br/>
       <sub><b>TV Azteca</b></sub>
     </td>
-    <td align="center" width="11%" style="padding: 10px;">
+    <td align="center" width="16%" style="padding: 10px;">
       <img src="https://www.google.com/s2/favicons?domain=cogna.com.br&sz=128" width="38" height="38" style="border-radius: 8px;" alt="Cogna Educação" /><br/>
       <sub><b>Cogna Educação</b></sub>
+    </td>
+    <td align="center" width="16%" style="padding: 10px;">
+      <!-- spacer -->
     </td>
   </tr>
 </table>
@@ -219,41 +232,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### ✍️ Featured Technical Article
-
-<div align="center">
-
-[![Deploying Next.js with Prisma on Azure](https://img.shields.io/badge/Medium%20Article-Ultimate%20Guide:%20Deploying%20Next.js%20Apps%20with%20Prisma%20to%20Azure%20App%20Service-06B6D4?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vitordiricio/ultimate-guide-deploying-next-js-apps-with-prisma-to-azure-app-service-2b434f5aa9a4)
-
-*A deep-dive production guide covering containerized Next.js builds, custom deployment pipelines, and Prisma connection pooling on Microsoft Azure.*
-
-</div>
-
----
-
-### 📊 GitHub Activity & Real-Time Stats
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitordiricio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8" alt="Vitor's GitHub Stats" height="165" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitordiricio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=94a3b8" alt="Top Languages" height="165" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=vitordiricio&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="Streak Stats" />
-
-</div>
 
 ---
 
