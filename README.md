@@ -141,17 +141,17 @@
 <table border="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=vitordiricio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8" alt="Vitor's GitHub Stats" height="165" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitordiricio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8" alt="Vitor's GitHub Stats" height="165" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordiricio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=94a3b8" alt="Top Languages" height="165" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitordiricio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=94a3b8" alt="Top Languages" height="165" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitordiricio&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=vitordiricio&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="Streak Stats" />
 
 </div>
 
